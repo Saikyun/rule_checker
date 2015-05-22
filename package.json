@@ -17,10 +17,6 @@
   "license": "ISC",
   "dependencies": {},
   "readme": "ERROR: No README data found!",
-  "_id": "rule_checker@0.1.2",
-  "_shasum": "8c27a989c0ab786d2efdc52ae58cba990e06b518",
-  "_from": "rule_checker@*",
-  "_resolved": "file:rule_checker",
   "gitHead": "36dbb330c810e2146c1975d4209bbafa1ed97bbc",
   "bugs": {
     "url": "https://github.com/Saikyun/rule_checker/issues"
