@@ -1,7 +1,6 @@
 'use strict';
 
 var test = require('./test.js');
-var curry = require('sai_curry');
 
 function ruleChecker() {
 	var events = {};
