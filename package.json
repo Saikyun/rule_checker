@@ -1,0 +1,29 @@
+{
+  "name": "rule_checker",
+  "version": "0.1.3",
+  "description": "Module to set rules and apply them to events.",
+  "main": "rule_checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jona Ekenberg",
+    "email": "saikyun@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saikyun/rule_checker.git"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "readme": "ERROR: No README data found!",
+  "_id": "rule_checker@0.1.2",
+  "_shasum": "8c27a989c0ab786d2efdc52ae58cba990e06b518",
+  "_from": "rule_checker@*",
+  "_resolved": "file:rule_checker",
+  "gitHead": "36dbb330c810e2146c1975d4209bbafa1ed97bbc",
+  "bugs": {
+    "url": "https://github.com/Saikyun/rule_checker/issues"
+  },
+  "homepage": "https://github.com/Saikyun/rule_checker"
+}
