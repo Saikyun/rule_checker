@@ -10,6 +10,10 @@
     "name": "Jona Ekenberg",
     "email": "saikyun@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saikyun/rule_checker.git"
+  },
   "license": "ISC",
   "dependencies": {},
   "readme": "ERROR: No README data found!",
